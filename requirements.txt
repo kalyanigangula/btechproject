@@ -1,0 +1,5 @@
+flask
+numpy
+opencv-python-headless
+playsound==1.2.2
+face_recognition
